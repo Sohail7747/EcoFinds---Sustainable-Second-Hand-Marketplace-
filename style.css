@@ -336,11 +336,11 @@ body {
 /* Categories Navigation */
 .categories {
     display: flex;
-    gap: 30px;
-    padding: 15px 30px;
+    gap: 20px;
+    padding: 15px 20px;
     background: white;
     border-bottom: 1px solid #e0e0e0;
-    overflow-x: auto;
+    
 }
 
 .category_item {
